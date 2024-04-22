@@ -1,0 +1,12 @@
+.footer {
+    padding: 1.25rem;
+    /* Equivalent to p-5 in Tailwind (5 * 0.25rem) */
+    background-color: #3b82f6;
+    /* This color corresponds to bg-blue-500 in Tailwind */
+    color: white;
+    /* text-white in Tailwind */
+    font-size: 1.875rem;
+    /* text-3xl in Tailwind, typically 1.875rem */
+    font-weight: bold;
+    /* font-bold in Tailwind */
+}
